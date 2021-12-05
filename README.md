@@ -16,7 +16,7 @@ Python3 should be already installed. Then use pip (or pip3, if there is a confli
 
 In command line
 
-`python cli_weather`
+`python task_1_weather_in_CLI.py`
 
 **Example output**
 
