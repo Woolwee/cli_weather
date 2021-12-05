@@ -20,8 +20,9 @@ In command line
 
 **Example output**
 
-`~/UserName$ python task_1_weather_in_CLI.py
+`~/UserName$ python task_1_weather_in_CLI.py`
 
+```
 Лондон
 
        .-.      Небольшой дождь
@@ -139,8 +140,7 @@ svo
 │    * * * *    2 km           │  _ - _ - _ -  2 km           │
 │   * * * *     0.8 mm | 0%    │               0.0 mm | 0%    │
 └──────────────────────────────┴──────────────────────────────┘
-
-Все новые фичи публикуются здесь: @igor_chubin`
+```
 
 **Project Goals**
 
