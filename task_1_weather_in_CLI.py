@@ -1,6 +1,10 @@
 import requests
-import urllib
 
+
+payload = {
+    "Tmnq": "", 
+    "lang": "ru"
+    }
 
 cities = [
     "Лондон",
@@ -9,7 +13,10 @@ cities = [
 ]
 
 
-if __name__ == "__main__":
+def main():
     for city in cities:
-        city = urllib.parse.quote(city)
-        print(requests.get(f"https://wttr.in/{city}?nTqm&lang=ru").text)
+        print(requests.get(f"https://wttr.in/{city}" , params=payload).text)
+
+
+if __name__ == "__main__":
+    main()
