@@ -10,17 +10,17 @@ By using this script you get 3-days weather forecast for London, Sheremet'evo ai
 
 Python3 should be already installed. Then use pip (or pip3, if there is a conflict with Python2) to install dependencies:
 
-`pip install -r requirements.txt`.
+```pip install -r requirements.txt```.
 
 **How to use**
 
 In command line
 
-`python task_1_weather_in_CLI.py`
+```python task_1_weather_in_CLI.py```
 
 **Example output**
 
-`~/UserName$ python task_1_weather_in_CLI.py`
+```~/UserName$ python task_1_weather_in_CLI.py```
 
 ```
 Лондон
