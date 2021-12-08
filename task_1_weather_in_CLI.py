@@ -3,16 +3,16 @@ import requests
 
 def main():
 
-    payload = {
-        "Tmnq": "",
-        "lang": "ru",
-    }
-
     cities = (
         "Лондон",
         "svo",
         "Череповец",
     )
+
+    payload = {
+        "Tmnq": "", 
+        "lang": "ru",
+    }
 
 
     for city in cities:
