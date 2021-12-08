@@ -1,6 +1,6 @@
 **cli_weather**
 
-This scrip print out infromation about weather in command line.
+This script print out information about weather in command line.
 
 **Project description**
 
