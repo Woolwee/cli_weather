@@ -20,7 +20,7 @@ In command line
 
 **Example output**
 
-```~/UserName$ python task_1_weather_in_CLI.py```
+``` ~/UserName$ python task_1_weather_in_CLI.py ```
 
 ```
 Лондон
