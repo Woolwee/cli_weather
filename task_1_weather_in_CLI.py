@@ -16,7 +16,7 @@ def main():
 
 
     for city in cities:
-        response = requests.get(f"https://wttr.in/{city}" , params=payload)
+        response = requests.get(f"https://wttr.in/{city}", params=payload)
         if response.ok:
             print(response.text)
         else:
